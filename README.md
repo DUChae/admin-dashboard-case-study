@@ -58,25 +58,26 @@ flowchart LR
 
 ### 1. 메인 대시보드
 
-![kmac-main-dashboard.png](attachment:703bf951-7261-4787-82ba-690becaf9403:kmac-main-dashboard.png)
+<img width="1693" height="1590" alt="kmac-main-dashboard" src="https://github.com/user-attachments/assets/c125aaaa-8456-4595-8169-51510ab931fc" />
+
 
 *💡 비동기 AJAX 통신을 통해 실시간 과정 통계와 오늘의 수업 현황을 한눈에 파악할 수 있는 종합 대시보드입니다.*
 
 ### 2. 관리자 권한 등급
 
-![kmac-authority.png](attachment:83a3290d-79d0-4cc2-8c5b-fa1424d25ba2:kmac-authority.png)
+<img width="1685" height="1306" alt="kmac-authority" src="https://github.com/user-attachments/assets/60749da7-f4ef-41dc-80aa-9380142b8038" />
 
 *💡 시스템 보안과 유연한 운영을 위해 관리자별로 세분화된 메뉴 접근 권한을 제어하는 화면입니다.*
 
 ### 3. 엑셀 대량 업로드 (행정 자동화)
 
-![kmac-excel.png](attachment:748d9af1-3c2c-4fd6-b14c-9e1c897d977a:kmac-excel.png)
+<img width="1222" height="729" alt="kmac-excel" src="https://github.com/user-attachments/assets/6b06e936-399d-44cd-bbc8-2b5f3248c2ae" />
 
 *💡 대규모 수강생 정보와 오프라인 출결 데이터를 메모리 초과 없이 일괄 파싱 및 트랜잭션 처리하는 엑셀 연동 기능입니다.*
 
 ### 4. 상세 출결 관리
 
-![kmac-attendance.png](attachment:ce58f9a1-ddb3-45f9-bdbf-6f328f76a632:kmac-attendance.png)
+<img width="1699" height="959" alt="kmac-attendance" src="https://github.com/user-attachments/assets/dfd98f32-0b64-4473-a212-e9166a7fb032" />
 
 *💡 복잡한 조인 쿼리 튜닝으로 응답 속도를 개선하고, 차시별 출결 및 소수점 단위의 정밀 통계를 직관적으로 보여주는 화면입니다.*
 
